@@ -1,4 +1,12 @@
 # Table of Contents
 
-* [First page](first-page.md)
-* [Second page](second-page.md)
+* [[First page]]
+* [[Second page]]
+
+![[Third page]]
+
+![[Fourth page]]
+
+Adding some #tags and #[[others]]
+
+
